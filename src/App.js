@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog
+            Kyochon soonsal is the best chicken
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
